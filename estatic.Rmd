@@ -2,7 +2,7 @@
 title: "Estatic"
 author: "Eric"
 date: "January 14, 2017"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
